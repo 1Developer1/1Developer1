@@ -35,7 +35,7 @@
 
 Backend developer'ım. Node.js + TypeScript (Fastify, Prisma) ve Java + Spring Boot kullanıyorum.
 
-İlgi alanım: Domain-Driven Design, event-driven architecture, distributed systems. Race condition yönetimi, async job processing ve event sourcing gibi patternleri gerçek projelerde uygulamaya çalışıyorum.
+İlgi alanım: Domain-Driven Design, Event Storming, event-driven architecture, distributed systems. Race condition yönetimi, async job processing ve event sourcing gibi patternleri gerçek projelerde uygulamaya çalışıyorum.
 
 **Şu sıralar:**
 - 🎫 TicketHub — bilet satış backend'i
