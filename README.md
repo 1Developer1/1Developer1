@@ -13,13 +13,13 @@
 ## ◈ whoami
 
 ```
-╭──────────────────────────── serkan@kocaeli ────────────────────────────╮
+╭──────────────────────────── serkan@istanbul ───────────────────────────╮
 │                                                                        │
 │   Name        │  Serkan Akköse                                         │
 │   Role        │  Backend Developer                                     │
 │   Focus       │  Distributed systems · DDD · Event-driven architecture │
 │   Stack       │  TypeScript · Node.js · Java · PostgreSQL · Redis      │
-│   Location    │  Kocaeli, Türkiye                                      │
+│   Location    │  İstanbul, Türkiye                                     │
 │   Status      │  Open to backend roles — internship / junior / contract│
 │                                                                        │
 ╰────────────────────────────────────────────────────────────────────────╯
@@ -48,7 +48,7 @@ Backend developer'ım. Node.js + TypeScript (Fastify, Prisma) ve Java + Spring B
 ```typescript
 const serkan = {
   role: 'Backend Developer',
-  location: 'Kocaeli, TR',
+  location: 'İstanbul, TR',
   education: 'Kocaeli University',
 
   stack: {
