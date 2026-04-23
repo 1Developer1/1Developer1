@@ -33,15 +33,13 @@
 <tr>
 <td width="50%" valign="top">
 
-Kodun sağlamlığı sessizliğindedir — iyi backend, 3 AM'de kimseyi uyandırmayandır.
+Backend developer'ım. Node.js + TypeScript (Fastify, Prisma) ve Java + Spring Boot kullanıyorum.
 
-Üretimde gerçekten yaşayan sistemlerle ilgileniyorum: race condition'ların nerede saklandığı, bir event'in üç modüle aynı anda ulaşıp ulaşmadığı, 10-dakikalık bir reservation'ın hangi saniyede expire etmesi gerektiği.
-
-Son zamanlarda çoğunlukla **Node.js + Fastify + Prisma** ile yazıyorum; Java tarafında **Spring Boot** ve microservice'lerle geçmişim var. Domain-Driven Design ve event sourcing lite yaklaşımlarını gerçek projelerde denemeye çalışıyorum.
+İlgi alanım: Domain-Driven Design, event-driven architecture, distributed systems. Race condition yönetimi, async job processing ve event sourcing gibi patternleri gerçek projelerde uygulamaya çalışıyorum.
 
 **Şu sıralar:**
-- 🎫 TicketHub — üretim kalitesinde bilet satış backend'i
-- 📚 Distributed systems, CAP theorem, eventual consistency okumaları
+- 🎫 TicketHub — bilet satış backend'i
+- 📚 Distributed systems, CAP theorem, eventual consistency
 - 🌱 Kubernetes, observability (OpenTelemetry, Prometheus)
 
 </td>
