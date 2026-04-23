@@ -55,7 +55,7 @@ const serkan = {
     primary:   ['TypeScript', 'Node.js', 'Fastify'],
     secondary: ['Java', 'Spring Boot'],
     data:      ['PostgreSQL', 'Redis', 'Prisma'],
-    infra:     ['Docker', 'BullMQ', 'GitHub Actions'],
+    infra:     ['Docker', 'Message Queue', 'GitHub Actions'],
   },
 
   patterns: [
@@ -129,11 +129,11 @@ const serkan = {
 
 Üretim kalitesinde online bilet satış platformu. Modular monolith + DDD mimarisi; 8 modül, event-driven iletişim.
 
-**Stack:** `TypeScript` `Fastify` `Prisma` `PostgreSQL` `Redis` `BullMQ`
+**Stack:** `TypeScript` `Fastify` `Prisma` `PostgreSQL` `Redis` `Message Queue`
 
 **Highlights:**
 - Redlock ile distributed seat locking
-- BullMQ ile 10-dk reservation expire
+- Message Queue ile 10-dk reservation expire
 - Event sourcing lite (dynamic pricing)
 - HMAC-SHA256 imzalı QR biletler
 - JWT + refresh token rotation
