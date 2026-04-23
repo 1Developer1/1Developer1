@@ -33,7 +33,7 @@
 <tr>
 <td width="50%" valign="top">
 
-Backend developer'ım. Node.js + TypeScript (Fastify, Prisma) ve Java + Spring Boot kullanıyorum.
+Backend developer'ım. Java + Spring Boot ve Node.js + TypeScript (Fastify, Prisma) kullanıyorum.
 
 İlgi alanım: Domain-Driven Design, Event Storming, event-driven architecture, distributed systems. Race condition yönetimi, async job processing ve event sourcing gibi patternleri gerçek projelerde uygulamaya çalışıyorum.
 
@@ -52,8 +52,8 @@ const serkan = {
   education: 'Kocaeli University',
 
   stack: {
-    primary:   ['TypeScript', 'Node.js', 'Fastify'],
-    secondary: ['Java', 'Spring Boot'],
+    primary:   ['Java', 'Spring Boot'],
+    secondary: ['TypeScript', 'Node.js', 'Fastify'],
     data:      ['PostgreSQL', 'Redis', 'Prisma'],
     infra:     ['Docker', 'Message Queue', 'GitHub Actions'],
   },
