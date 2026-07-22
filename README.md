@@ -228,9 +228,6 @@ Android üzerinde online çalışan kelime tahmin oyunu. Firebase realtime sync 
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=serkanakkose&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=e94560&icon_color=ffa94d&text_color=c9d1d9" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=serkanakkose&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=e94560&text_color=c9d1d9&langs_count=8" />
-
 <img width="99%" src="https://github-readme-streak-stats.herokuapp.com?user=serkanakkose&theme=midnight-purple&hide_border=true&background=0d1117&ring=e94560&fire=ffa94d&currStreakLabel=e94560" />
 
 <img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=serkanakkose&theme=react-dark&bg_color=0d1117&color=e94560&line=ffa94d&point=ffffff&area=true&hide_border=true" />
